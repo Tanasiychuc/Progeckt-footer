@@ -36,7 +36,6 @@ button {
 /*===================SKIDKA====================*/
 
 .footer {
-  background-color: rgb(189, 28, 149);
   padding-top: 30px;
   padding-bottom: 20px;
 }
@@ -48,7 +47,6 @@ button {
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
-  background-color: aqua;
 }
 
 .content {
@@ -269,9 +267,6 @@ button {
     line-height: 1.28;
   }
 
-  .list-service-footer {
-  }
-
   .link-service-footer {
     font-size: 14px;
     line-height: 1.28;
@@ -287,17 +282,6 @@ button {
     max-width: 1280px;
   }
 
-  .content {
-  }
-
-  .logo-footer {
-  }
-
-  .list-socseti-footer {
-  }
-
-  .link-tel-footer {
-  }
   .text-footer {
     margin-top: 0;
     position: absolute;
@@ -312,24 +296,6 @@ button {
 
   .list-id-footer {
     column-gap: 40px;
-  }
-
-  .link-id-footer {
-  }
-
-  .address-footer {
-  }
-
-  .line {
-  }
-
-  .div-four-position-service {
-  }
-
-  .info-service-footer {
-  }
-
-  .list-service-footer {
   }
 
   .link-service-footer {
